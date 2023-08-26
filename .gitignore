@@ -5,6 +5,7 @@ __pycache__/
 
 .vscode/
 sandbox/
+node_modules/
 
 # C extensions
 *.so
