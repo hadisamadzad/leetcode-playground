@@ -1,0 +1,9 @@
+{
+    "compilerOptions": {
+        "outDir": "./build",
+        "rootDir": "./src",
+        "sourceMap": true,
+        "moduleResolution": "node",
+        "target": "es5"
+    }
+}
